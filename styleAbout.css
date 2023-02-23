@@ -1,0 +1,102 @@
+header {
+    margin-bottom: auto;
+    background-color: white;
+    font-family: 'Righteous', cursive;
+    padding: 22px;
+}
+ul {
+
+
+    margin-bottom: 0%;
+    background-color: rgb(86, 84, 84);
+    font-family: 'Righteous', cursive;
+    padding: -23%;
+    margin: -6px -281px 43px 139px;
+
+
+}
+
+h1 {
+    margin-top: -4%;
+    margin-left: 0%;
+    font-size: 40px;
+}
+h3 {
+    margin-top: -6%;
+    margin-left: 21%;
+    font-size: 29px;
+}
+h2 {
+    margin-top: 0%;
+    margin-left: 8%;
+    font-size: 30px;
+    padding: 28px;
+    
+}
+#image1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 23px;
+    margin-top: -11%;
+    margin-left: -3%;
+}
+img {
+    width: 232px;
+    height: 200px;
+    border-radius: 23px;
+    margin-top: 3%;
+    margin-left: 0%;
+}
+h5 {
+    color: red;
+    margin-top: -16%;
+    margin-left: 20%;
+    font-size: 36px;
+}
+
+#describtion {
+    margin: 99px 100px;
+    background-color: #736851;
+    box-shadow: -1px 12px 14px #00000075;
+    margin-top: -2%;
+    margin-left: 20%;
+    font-size: 41px;
+}
+section#form {
+    margin: 50px 400px;
+   
+}
+
+input, select, button {
+    padding: 12px 20px;
+    margin-left: 40%;
+    margin: 7px;
+}
+
+input, select, button {
+    padding: 12px 20px;
+    width: 29%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 2%;
+}
+label, select, button{
+    padding: 12px 20px;
+    width: 29%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 15%;
+}
+
+/* footer */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: 7%;
+    background-color: rgb(86, 84, 84);
+    font-family: 'Righteous', cursive;
+    padding: 10px;
+}
