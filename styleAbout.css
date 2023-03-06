@@ -73,13 +73,10 @@ a:active {
 
 .two {
     display: flex;
-    /* justify-content: space-around; */
-    /* align-content:start; */
-    background-color: #fc8fae;
-    /* margin:  50px 120px; */
-    justify-content: flex-start;
 
-    margin: 20px 200px 0px 10px;
+    background-color: #fc8fae;
+    justify-content: flex-start;
+    margin: 20px 225px 0px 10px;
     border-radius: 3%;
 
 }
@@ -100,30 +97,30 @@ a:active {
 }
 
 .one {
-    font-size: x-large;
     margin-left: 20px;
 
 }
 
 .three {
 
-    font-size: 30px;
+    /* font-size: 30px; */
     text-align: center;
     padding-right: 190px;
 }
 
-h3{
+h3 {
     margin-right: 308px;
     margin-top: 53px;
 }
+
 form {
     display: flex;
     flex-direction: column;
     /* align-self: flex-start; */
     /* background-color: #938f92; */
     margin: 40px 350px;
-    margin-left: 100px;
-    
+    margin-left: 160px;
+
 
 
 
@@ -138,8 +135,8 @@ button {
 
 input,
 button {
-    padding: 10px 20px;
-    width: 100%;
+    padding: 10px 70px;
+    width: 70%;
     box-sizing: border-box;
     border-radius: 4px;
     margin-top: 15px;
@@ -147,17 +144,17 @@ button {
 
 label {
     display: flex;
-    font-size: 2rem;
+    /* font-size: 1.5rem; */
     /* background-color: #6b5f66;  */
 }
 
 input {
-display: flex;
+    display: flex;
     background-color: #d1d0cd;
 }
 
 button {
-display: flex;
+    display: flex;
     justify-content: center;
     background-color: #fc8fae;
 
@@ -174,15 +171,15 @@ footer {
 }
 
 .c2 {
-
-    font-size: larger;
+    display: flex;
+    /* font-size: larger; */
     margin-right: 40rem;
 
 
 }
 
 .c1 {
-
+    display: flex;
     gap: 10px;
     margin-top: 20px;
 
