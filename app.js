@@ -48,6 +48,14 @@ function validating(arr) {
         }
     }
 };
+
+function printer(arr){
+    for( let i=0;i<arr.length;i++){
+        console.log(arr[i])
+    }
+
+}
 asks(userAnswer);
 answersSaving(userAnswer);
 validating(userAnswer);
+printer(userAnswer);
